@@ -1,0 +1,24 @@
+{
+  "name": "zombie-dice",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Zombie Dice CLI",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoxPhoenix/zombie-dice.git"
+  },
+  "author": "NoxPhoenix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoxPhoenix/zombie-dice/issues"
+  },
+  "homepage": "https://github.com/NoxPhoenix/zombie-dice#readme",
+  "dependencies": {
+    "inquirer": "^9.2.11",
+    "lodash": "^4.17.21"
+  }
+}
